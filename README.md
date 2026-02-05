@@ -1,2 +1,2 @@
 # gbdgomez.github.io
-Gabi Davidson-Gomez professional portfolio
+This is a professional portfolio for Gabi Davidson-Gomez.
